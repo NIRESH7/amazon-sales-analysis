@@ -76,7 +76,7 @@ The dataset contains sales transactions from Amazon and includes the following f
 ---
 
 
-🎥 **Project Demo Video**
+## 🎥 **Project Demo Video**
 
 Watch the demo video to see the dashboard in action:  
 
