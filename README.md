@@ -55,11 +55,6 @@ The dataset contains sales transactions from Amazon and includes the following f
 
 ## 🖥️ Power BI Dashboard
 
-Add a screenshot of your dashboard here:  
-`images/dashboard_screenshot.png`
-
-If you published it online (e.g., through Power BI "Publish to Web"), include a link:
-
 👉 [**View Interactive Dashboard**](https://app.powerbi.com/groups/me/reports/fb124df2-b49b-40f6-85e7-eb7bda38d1d2/3a9776bd337a247da8b1?experience=power-bi)
 
 ---
